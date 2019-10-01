@@ -4,6 +4,8 @@ O Projeto foi um grande desafio, muito legal, diga-se de passagem.
 
 Utilizei alguns conceitos que vinha observando na comunidade e muita coisa que aprendi ao longo do tempo que estou estudando front-end.
 
+Projeto realizado em React.
+
 Utilizei o Redux e Redux Saga para o gerenciamento dos estados de contas vinculadas aos canais de social media, e também para persistir os mesmo ao recarregar a aplicação na próxima visita (Refresh / F5). Também utilizei styled components para o CSS, gosto muito de trabalhar com essa lib, consigo me organizar melhor com essa ferramenta.
 
 Apliquei um loading ao consultar as contas disponíveis para vinculação em cada canal disponível (Eu adoro esse tipo de coisa/animação).
