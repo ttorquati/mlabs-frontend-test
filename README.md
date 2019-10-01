@@ -20,8 +20,11 @@ Vale lembrar que não encontrei alguns SVGs disponíveis idênticos ao menu da m
 
 No geral gostei muito da experiência, e do resultado final. Notei vários pontos que posso melhorar ainda mais, como melhoria para o projeto caso tivesse mais tempo, olharia com mais carinho para a parte responsiva do site, a componentização de mais elementos que encontrei pelo caminho, e a implementação dos testes com Jest.
 
-Link do Wiki com algumas imagens
+Link do Wiki com algumas imagens: 
 https://github.com/ttorquati/mlabs-frontend-test/wiki/Wiki
+
+Demo na HerokuApp: 
+https://mlabs-frontend-test.herokuapp.com/
 
 Abaixo alguns scripts para executar o projeto
 
