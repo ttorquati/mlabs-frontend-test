@@ -18,6 +18,9 @@ Vale lembrar que não encontrei alguns SVGs disponíveis idênticos ao menu da m
 
 No geral gostei muito da experiência, e do resultado final. Notei vários pontos que posso melhorar ainda mais, como melhoria para o projeto caso tivesse mais tempo, olharia com mais carinho para a parte responsiva do site, a componentização de mais elementos que encontrei pelo caminho, e a implementação dos testes com Jest.
 
+Link do Wiki com algumas imagens
+https://github.com/ttorquati/mlabs-frontend-test/wiki/Wiki
+
 Abaixo alguns scripts para executar o projeto
 
 - Utilizei o Reactotron para monitorar as chamadas e troca de estados, pode ser que apareça algum 'error' no console que não conseguiu se conectar a ele em ambiente de dev, mas isso não impede que o site funcione.
