@@ -23,8 +23,9 @@ No geral gostei muito da experiência, e do resultado final. Notei vários ponto
 Link do Wiki com algumas imagens: 
 https://github.com/ttorquati/mlabs-frontend-test/wiki/Wiki
 
-Demo na HerokuApp (Em alguns momentos o site pode estar fora no Heroku): 
-https://mlabs-frontend-test.herokuapp.com/
+Demo na HerokuApp: 
+https://mlabs-frontend-test.herokuapp.com/  
+(Em alguns momentos o site pode estar fora no Heroku)
 
 Abaixo alguns scripts para executar o projeto
 
